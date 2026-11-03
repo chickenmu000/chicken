@@ -8,5 +8,5 @@
   "fabricLoaderVersion": "latest",
   "ramRecommendedMB": 4096,
   "ramMinimumMB": 2048,
-  "defaultsVersion": "1"
+  "defaultsVersion": "2"
 }
