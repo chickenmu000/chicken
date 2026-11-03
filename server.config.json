@@ -1,0 +1,12 @@
+{
+  "serverId": "chickenplayground2",
+  "serverName": "치킨무 놀이터 2",
+  "description": "치킨무 놀이터 2 전용 서버 - 플레이 버튼만 누르면 바로 접속!",
+  "serverVersion": "1.0.0",
+  "address": "chickenmuu.kro.kr",
+  "minecraftVersion": "1.21.11",
+  "fabricLoaderVersion": "latest",
+  "ramRecommendedMB": 4096,
+  "ramMinimumMB": 2048,
+  "defaultsVersion": "1"
+}
